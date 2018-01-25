@@ -1,2 +1,15 @@
 
 //Mimo app
+#programming lang
+#html - web
+#scripts #programs
+#document.write()
+#data display
+#browser console - javaScript console - web browser
+#sequence of characters
+#semicolon
+#endofstatement
+#project
+#variables - containers for diff. types of data & use unique identifiers
+
+
